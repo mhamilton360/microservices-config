@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related PROD APIs"
+  message: "Welcome to EazyBank accounts related to PROD APIs"
   contactDetails:
     name: "Rene Jones - Product Lead"
     email: "rjones@eazybank.com"
