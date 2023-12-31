@@ -1,6 +1,7 @@
 server:
   port: 8072
 
+# connect gateway server to eureka
 eureka:
   instance:
     preferIpAddress: true
